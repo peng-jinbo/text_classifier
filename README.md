@@ -1,2 +1,2 @@
 # text_classifier
-some code about text classifier
+some codes about text classifier
